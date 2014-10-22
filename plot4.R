@@ -80,7 +80,7 @@ if (!file.exists(subDir)){
 } 
 
 ## Loading the graphics package
-png(file="./figures/plot4.png", width=480, height=480)
+png(file="./figures/plot4.png", width=640, height=480)
 
 ## Printing Graph
 print(table)

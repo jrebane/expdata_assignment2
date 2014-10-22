@@ -39,7 +39,7 @@ The following packages are used in the process of generating this assignment's p
 
 **Plot**
 
-![./figures/plot1.png](https://github.com/jrebane/expdata_assignment2/raw/master/plot1.png)
+![./figures/plot1.png](https://github.com/jrebane/expdata_assignment2/raw/master/figures/plot1.png)
 
 [**Source Code**](https://github.com/jrebane/expdata_assignment2/raw/master/plot1.R)
 
